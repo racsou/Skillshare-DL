@@ -44,7 +44,6 @@ class Skillshare(object):
             logging.error(f'Error downloading video: {e}')
             raise e
 
-
 def splash():
     print(r"""   
     ####### #     # ####### #     #    #     #####  #    # 
